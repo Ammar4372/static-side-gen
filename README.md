@@ -1,1 +1,1 @@
-# static-side-gen
+# Static Side Generator
